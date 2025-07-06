@@ -157,7 +157,3 @@ email_drafting_agent/
 
 ---
 
-## 📎 Submission Form
-
-Submit your GitHub repo here:  
-👉 [https://forms.gle/usDzCJrD6fjuYLeM7](https://forms.gle/usDzCJrD6fjuYLeM7)
